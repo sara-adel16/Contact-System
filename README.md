@@ -1,4 +1,5 @@
 # Contact-System
-Phone Contact System using C++ with functionalities to add new contacts, update existing ones, searching contacts by name (using binary search algorithm) and other options, and delete.
+A simple phone contact system that allows users to add new contacts, update existing ones, delete contacts, and search all contacts 
+by many options in an optimized way
 
 You can see the project's source code in main.cpp
